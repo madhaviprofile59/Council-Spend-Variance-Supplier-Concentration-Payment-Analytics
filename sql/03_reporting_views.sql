@@ -256,3 +256,15 @@ FROM governance_payment_summary;
 
 SHOW COLUMNS FROM council_spending.load_audit;
 
+SELECT COUNT(*) AS final_rows
+FROM council_spending.accepted_data;
+SELECT
+    @run_id AS session_run_id,
+    @ready AS ready_to_promote,
+    (SELECT COUNT(*) FROM council_spending.accepted_data_import) AS staging_rows;
+
+SELECT run_id, status, staged_count, final_count, error_message
+FROM council_spending.load_audit
+ORDER BY run_id DESC
+LIMIT 3;
+

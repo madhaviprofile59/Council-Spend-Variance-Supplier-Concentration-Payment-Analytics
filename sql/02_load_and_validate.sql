@@ -1,6 +1,8 @@
 USE council_spending;
 
--- Run in one Workbench connection. Use the latest quality_summary.csv.
+-- Run Steps 1 through 4 in the same Workbench connection.
+-- If you reconnect, restart at Step 1 to establish a new audit run.
+-- Use the latest quality_summary.csv.
 SET @input_count = 50000;
 SET @accepted_count = 49570;
 SET @rejected_count = 180;
@@ -127,10 +129,18 @@ SET ended_at = NOW(),
 WHERE run_id = @run_id AND status = 'started' AND @ready = 0;
 COMMIT;
 
-SELECT @ready AS ready_to_promote, @staged_count AS staged_count,
+SELECT @run_id AS session_run_id, @load_conditions AS import_diagnostics,
+       @ready AS ready_to_promote, @staged_count AS staged_count,
        @staged_actual AS staged_actual, @staged_budget AS staged_budget;
 
--- STEP 3: Run only if ready_to_promote = 1. Keep this connection open.
+-- STEP 3: Run only if Step 2 showed a run ID and ready_to_promote = 1.
+-- Execute this preflight separately. Continue only if can_start_step_3 = 1.
+SELECT @run_id AS session_run_id, COALESCE(@ready = 1 AND EXISTS (
+    SELECT 1 FROM load_audit
+    WHERE run_id = @run_id AND status = 'started'
+), 0) AS can_start_step_3;
+
+-- Begin the load only after the preflight passes.
 SET @previous_safe_updates = @@SESSION.sql_safe_updates;
 SET SESSION sql_safe_updates = 0;
 START TRANSACTION;
@@ -221,6 +231,7 @@ SELECT @final_count AS final_count,
        COALESCE(@final_count = @staged_count
                 AND @final_actual = @staged_actual
                 AND @final_budget = @staged_budget, 0) AS final_check_passed;
+
 -- STEP 4: Run only after the insert succeeded without warnings
 -- and final_check_passed = 1. Check that the update affected one row.
 UPDATE load_audit
@@ -236,3 +247,27 @@ WHERE run_id = @run_id AND status = 'started' AND @ready = 1
 -- SET SESSION sql_safe_updates = @previous_safe_updates;
 
 SELECT * FROM load_audit WHERE run_id = @run_id;
+
+-- If promotion fails, run these statements INSTEAD of Step 4.
+-- ROLLBACK;
+-- UPDATE load_audit
+-- SET ended_at = NOW(), status = 'load_failed',
+--     error_message = 'Promotion or final verification failed'
+-- WHERE run_id = @run_id AND status = 'started';
+-- COMMIT;
+-- SET SESSION sql_safe_updates = @previous_safe_updates;
+
+SELECT run_id, status, staged_count, final_count, error_message
+FROM council_spending.load_audit
+WHERE run_id = 2;
+
+SELECT COUNT(*) AS view_rows,
+       ROUND(SUM(recorded_spend), 2) AS recorded_spend_gbp
+FROM council_spending.variance_register;
+SELECT COUNT(*) AS final_rows
+FROM council_spending.accepted_data;
+
+SELECT @@hostname AS mysql_host, @@port AS mysql_port,
+       COUNT(*) AS final_rows
+FROM council_spending.accepted_data;
+commit;
