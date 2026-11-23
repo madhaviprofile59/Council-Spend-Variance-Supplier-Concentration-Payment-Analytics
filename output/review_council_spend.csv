@@ -1,0 +1,251 @@
+transaction_id,transaction_date,council_name,department,spend_category,supplier_name,description,actual_spend_gbp,budget_amount_gbp,spend_type,payment_status,procurement_method,funding_source,currency,reason_code
+SP0000092,2026-02-17,Eastford Council,Housing,Maintenance,GreenPath Services,Equipment replacement,-250.0,1208.86,Revenue,Approved,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0000452,2026-05-19,Southmoor Council,Libraries & Culture,Equipment,BrightFuture Learning,Monthly service provision,-250.0,8772.38,Capital,Under Review,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0000644,2025-09-13,Northbridge Borough,Highways,Equipment,LocalReach CIC,Quarterly contract payment,-250.0,1027.13,Revenue,Under Review,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0000664,2025-11-28,Westhaven Council,Highways,Maintenance,Public Digital Ltd,Road resurfacing works,-250.0,7902.49,Capital,Pending,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0000891,2025-07-26,Southmoor Council,Waste & Recycling,Maintenance,BrightFuture Learning,Equipment replacement,-250.0,6229.0,Revenue,Approved,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0001082,2024-11-16,Northbridge Borough,Children's Services,Contracted Services,BrightFuture Learning,Monthly service provision,-250.0,6380.9,Revenue,Approved,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0001284,2024-01-28,Rivermouth Council,Planning,Grants,Crown Facilities,Community programme grant,-250.0,6880.48,Capital,Pending,Grant,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0001846,2026-09-21,Northbridge Borough,Public Health,Equipment,Crown Facilities,Monthly service provision,-250.0,914.46,Capital,Pending,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0001862,2026-08-21,Northbridge Borough,Public Health,Transport,BrightFuture Learning,Community programme grant,-250.0,1129.87,Capital,Approved,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0002030,2025-01-28,Greenvale Council,Highways,Equipment,Roadway Maintenance Ltd,Quarterly contract payment,-250.0,30510.41,Revenue,Pending,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0002148,2025-03-24,Southmoor Council,Children's Services,Utilities,LocalReach CIC,Community programme grant,-250.0,2511.79,Capital,Under Review,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0002586,2025-09-27,Rivermouth Council,Highways,Maintenance,Community Health Partners,Equipment replacement,-250.0,10214.01,Capital,Under Review,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0002846,2024-11-03,Westhaven Council,Parks & Environment,Grants,GreenPath Services,Equipment replacement,-250.0,2257.87,Capital,Under Review,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0002902,2024-09-04,Greenvale Council,Adult Social Care,Capital Works,Community Health Partners,Equipment replacement,-250.0,2419.67,Capital,Paid,Grant,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0003014,2025-04-16,Rivermouth Council,Planning,Maintenance,UrbanBuild UK,Community programme grant,-250.0,2877.78,Capital,Approved,Grant,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0003075,2025-04-05,Westhaven Council,Children's Services,Maintenance,BrightFuture Learning,Road resurfacing works,-250.0,2172.75,Capital,Cancelled,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0003302,2024-09-24,Eastford Council,Highways,Maintenance,CivicWorks Ltd,Monthly service provision,-250.0,3459.35,Revenue,Under Review,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0004340,2025-05-23,Greenvale Council,Libraries & Culture,Grants,BrightFuture Learning,Monthly service provision,-250.0,15452.62,Capital,Pending,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0004345,2026-04-21,Westhaven Council,Public Health,Utilities,UrbanBuild UK,Road resurfacing works,-250.0,2320.77,Capital,Pending,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0004474,2026-02-10,Southmoor Council,Children's Services,Transport,Community Health Partners,Monthly service provision,-250.0,6676.19,Capital,Paid,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0004567,2025-08-13,Eastford Council,Public Health,Maintenance,CivicWorks Ltd,Equipment replacement,-250.0,1104.93,Capital,Paid,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0004616,2025-12-14,Eastford Council,Housing,Equipment,Community Health Partners,Quarterly contract payment,-250.0,4917.58,Revenue,Pending,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0004883,2026-01-21,Greenvale Council,Children's Services,Staffing,Crown Facilities,Monthly service provision,-250.0,1484.95,Capital,Pending,Competitive Tender,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0004986,2025-10-23,Rivermouth Council,Housing,Staffing,LocalReach CIC,Equipment replacement,-250.0,7407.42,Capital,Pending,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0005085,2025-09-07,Northbridge Borough,Housing,Contracted Services,LocalReach CIC,Equipment replacement,-250.0,3947.03,Revenue,Pending,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0005188,2025-09-30,Southmoor Council,Children's Services,Transport,LocalReach CIC,Road resurfacing works,-250.0,2146.22,Revenue,Under Review,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0005779,2024-06-25,Westhaven Council,Planning,Grants,Public Digital Ltd,Quarterly contract payment,-250.0,1066.86,Revenue,Paid,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0005921,2024-01-02,Rivermouth Council,Waste & Recycling,Staffing,CivicWorks Ltd,Monthly service provision,-250.0,325.01,Capital,Under Review,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0006046,2025-12-21,Westhaven Council,Public Health,Staffing,BrightFuture Learning,Quarterly contract payment,-250.0,1426.63,Revenue,Paid,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0006194,2026-06-11,Northbridge Borough,Public Health,Contracted Services,Roadway Maintenance Ltd,Monthly service provision,-250.0,1065.66,Revenue,Cancelled,Grant,General Fund,GBP,NEGATIVE_ACTUAL
+SP0006669,2025-08-04,Eastford Council,Parks & Environment,Contracted Services,LocalReach CIC,Monthly service provision,-250.0,8595.91,Capital,Paid,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0006809,2025-10-24,Southmoor Council,Adult Social Care,Contracted Services,BrightFuture Learning,Community programme grant,-250.0,14693.72,Capital,Paid,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0006845,2024-06-03,Rivermouth Council,Libraries & Culture,Technology,Roadway Maintenance Ltd,Emergency repair,-250.0,4987.58,Capital,Paid,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0007314,2026-08-04,Greenvale Council,Adult Social Care,Maintenance,Metro Waste Solutions,Equipment replacement,-250.0,1705.95,Capital,Under Review,Grant,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0007601,2025-06-13,Greenvale Council,Highways,Equipment,Metro Waste Solutions,Road resurfacing works,-250.0,241.75,Revenue,Cancelled,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0007663,2024-07-21,Greenvale Council,Parks & Environment,Capital Works,CivicWorks Ltd,Road resurfacing works,-250.0,2710.63,Capital,Under Review,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0007839,2026-08-31,Eastford Council,Children's Services,Utilities,CivicWorks Ltd,Monthly service provision,-250.0,1019.14,Capital,Paid,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0008278,2025-05-21,Westhaven Council,Libraries & Culture,Equipment,BrightFuture Learning,Equipment replacement,-250.0,2472.63,Capital,Cancelled,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0008518,2024-01-15,Northbridge Borough,Housing,Contracted Services,Roadway Maintenance Ltd,Emergency repair,-250.0,13436.51,Capital,Paid,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0008651,2025-07-28,Northbridge Borough,Housing,Equipment,Northstar Care Group,Monthly service provision,-250.0,1910.01,Capital,Under Review,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0008731,2025-11-15,Rivermouth Council,Housing,Grants,UrbanBuild UK,Monthly service provision,-250.0,1747.91,Capital,Pending,Grant,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0008760,2024-07-08,Eastford Council,Adult Social Care,Contracted Services,Community Health Partners,Emergency repair,-250.0,2632.93,Capital,Approved,Grant,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0009308,2025-03-31,Greenvale Council,Adult Social Care,Utilities,Roadway Maintenance Ltd,Community programme grant,-250.0,6086.26,Revenue,Pending,Competitive Tender,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0009323,2024-10-10,Greenvale Council,Parks & Environment,Staffing,Northstar Care Group,Road resurfacing works,-250.0,1598.43,Revenue,Cancelled,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0009346,2026-02-04,Greenvale Council,Waste & Recycling,Technology,Northstar Care Group,Road resurfacing works,-250.0,1528.38,Revenue,Cancelled,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0009512,2025-02-11,Southmoor Council,Highways,Maintenance,BrightFuture Learning,Emergency repair,-250.0,2438.91,Capital,Cancelled,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0009571,2024-02-17,Southmoor Council,Planning,Equipment,Roadway Maintenance Ltd,Monthly service provision,-250.0,3867.1,Capital,Under Review,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0009766,2025-01-08,Southmoor Council,Libraries & Culture,Equipment,CivicWorks Ltd,Quarterly contract payment,-250.0,1422.04,Capital,Cancelled,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0010304,2025-11-18,Eastford Council,Libraries & Culture,Technology,Community Health Partners,Quarterly contract payment,-250.0,2778.3,Capital,Under Review,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0010525,2025-06-15,Greenvale Council,Children's Services,Capital Works,Community Health Partners,Equipment replacement,-250.0,849.9,Revenue,Cancelled,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0010723,2024-11-22,Eastford Council,Planning,Grants,GreenPath Services,Quarterly contract payment,-250.0,211559.06,Capital,Cancelled,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0010808,2024-09-08,Northbridge Borough,Libraries & Culture,Equipment,Community Health Partners,Quarterly contract payment,-250.0,8023.55,Revenue,Pending,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0010814,2025-05-31,Southmoor Council,Planning,Transport,CivicWorks Ltd,Equipment replacement,-250.0,1594.22,Revenue,Under Review,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0010854,2026-01-23,Greenvale Council,Waste & Recycling,Equipment,GreenPath Services,Road resurfacing works,-250.0,2855.79,Revenue,Under Review,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0010871,2026-05-11,Westhaven Council,Children's Services,Utilities,Public Digital Ltd,Quarterly contract payment,-250.0,176755.55,Capital,Paid,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0011056,2024-11-24,Eastford Council,Adult Social Care,Contracted Services,UrbanBuild UK,Equipment replacement,-250.0,71142.73,Revenue,Paid,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0011341,2024-01-23,Rivermouth Council,Highways,Grants,GreenPath Services,Community programme grant,-250.0,1857.04,Capital,Approved,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0011524,2024-04-09,Northbridge Borough,Highways,Equipment,GreenPath Services,Road resurfacing works,-250.0,1093.73,Capital,Approved,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0011738,2025-03-15,Northbridge Borough,Highways,Maintenance,CivicWorks Ltd,Road resurfacing works,-250.0,5985.0,Capital,Paid,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0011742,2024-10-19,Westhaven Council,Children's Services,Staffing,Community Health Partners,Monthly service provision,-250.0,12564.22,Revenue,Cancelled,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0012183,2026-03-16,Rivermouth Council,Planning,Contracted Services,LocalReach CIC,Community programme grant,-250.0,8325.72,Capital,Cancelled,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0012208,2025-10-02,Greenvale Council,Planning,Grants,,Monthly service provision,-250.0,5598.25,Capital,Pending,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0012486,2024-03-30,Greenvale Council,Public Health,Contracted Services,Roadway Maintenance Ltd,Emergency repair,-250.0,4541.07,Revenue,Pending,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0012608,2024-07-14,Eastford Council,Libraries & Culture,Contracted Services,Northstar Care Group,Emergency repair,-250.0,5649.48,Revenue,Paid,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0012818,2025-05-03,Eastford Council,Children's Services,Staffing,BrightFuture Learning,Road resurfacing works,-250.0,2280.5,Revenue,Cancelled,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0012821,2025-10-22,Greenvale Council,Highways,Maintenance,GreenPath Services,Quarterly contract payment,-250.0,1447.04,Revenue,Pending,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0012971,2025-04-21,Eastford Council,Waste & Recycling,Maintenance,GreenPath Services,Quarterly contract payment,-250.0,26391.09,Revenue,Approved,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0013132,2025-09-04,Eastford Council,Libraries & Culture,Grants,Public Digital Ltd,Road resurfacing works,-250.0,1711.99,Capital,Under Review,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0013430,2026-04-07,Southmoor Council,Libraries & Culture,Capital Works,GreenPath Services,Community programme grant,-250.0,9038.01,Capital,Approved,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0013685,2025-08-20,Greenvale Council,Planning,Transport,GreenPath Services,Community programme grant,-250.0,1855.19,Revenue,Pending,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0013793,2026-06-14,Northbridge Borough,Parks & Environment,Utilities,UrbanBuild UK,Quarterly contract payment,-250.0,2266.99,Revenue,Cancelled,Competitive Tender,General Fund,GBP,NEGATIVE_ACTUAL
+SP0013834,2024-08-21,Rivermouth Council,Public Health,Capital Works,Northstar Care Group,Monthly service provision,-250.0,2156.65,Revenue,Paid,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0013896,2025-02-23,Northbridge Borough,Waste & Recycling,Staffing,UrbanBuild UK,Equipment replacement,-250.0,2796.86,Revenue,Under Review,Competitive Tender,General Fund,GBP,NEGATIVE_ACTUAL
+SP0014119,2025-03-21,Northbridge Borough,Waste & Recycling,Maintenance,GreenPath Services,Equipment replacement,-250.0,2906.01,Revenue,Under Review,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0014163,2026-08-23,Greenvale Council,Highways,Grants,Public Digital Ltd,Road resurfacing works,-250.0,3515.6,Capital,Approved,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0014858,2026-04-18,Rivermouth Council,Children's Services,Transport,BrightFuture Learning,Emergency repair,-250.0,3154.94,Revenue,Cancelled,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0015123,2026-01-05,Southmoor Council,Children's Services,Staffing,BrightFuture Learning,Quarterly contract payment,-250.0,621.27,Capital,Pending,Purchase Order,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0015175,2025-10-25,Northbridge Borough,Libraries & Culture,Maintenance,Northstar Care Group,Equipment replacement,-250.0,5008.35,Revenue,Cancelled,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0015229,2026-07-09,Eastford Council,Housing,Grants,Roadway Maintenance Ltd,Road resurfacing works,-250.0,10657.21,Revenue,Under Review,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0015312,2025-05-22,Westhaven Council,Children's Services,Maintenance,Community Health Partners,Emergency repair,-250.0,2911.83,Capital,Pending,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0015332,2026-04-29,Rivermouth Council,Libraries & Culture,Capital Works,CivicWorks Ltd,Road resurfacing works,-250.0,788.86,Capital,Pending,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0015359,2026-01-31,Northbridge Borough,Libraries & Culture,Technology,CivicWorks Ltd,Road resurfacing works,-250.0,5028.5,Revenue,Cancelled,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0015597,2024-08-21,Eastford Council,Planning,Capital Works,Northstar Care Group,Road resurfacing works,-250.0,1911.88,Capital,Cancelled,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0015908,2026-03-23,Westhaven Council,Libraries & Culture,Utilities,Metro Waste Solutions,Equipment replacement,-250.0,3149.2,Revenue,Pending,Grant,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0015910,2024-06-07,Westhaven Council,Public Health,Grants,Northstar Care Group,Emergency repair,-250.0,4444.28,Revenue,Approved,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0016327,2024-08-05,Southmoor Council,Planning,Grants,GreenPath Services,Equipment replacement,-250.0,3177.19,Revenue,Approved,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0016497,2025-02-15,Rivermouth Council,Planning,Transport,GreenPath Services,Road resurfacing works,-250.0,10616.5,Capital,Under Review,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0016524,2025-11-19,Southmoor Council,Libraries & Culture,Staffing,Crown Facilities,Emergency repair,-250.0,1822.7,Capital,Paid,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0016724,2026-04-01,Greenvale Council,Waste & Recycling,Equipment,Crown Facilities,Monthly service provision,-250.0,3119.42,Capital,Cancelled,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0016812,2024-04-27,Rivermouth Council,Planning,Technology,Northstar Care Group,Monthly service provision,-250.0,544.27,Capital,Under Review,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0016824,2026-08-26,Eastford Council,Planning,Maintenance,BrightFuture Learning,Road resurfacing works,-250.0,2021.28,Capital,Paid,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0017211,2025-09-08,Westhaven Council,Highways,Maintenance,Metro Waste Solutions,Quarterly contract payment,-250.0,3045.86,Capital,Under Review,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0017371,2024-05-11,Eastford Council,Libraries & Culture,Technology,UrbanBuild UK,Quarterly contract payment,-250.0,4532.81,Revenue,Paid,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0017586,2025-03-09,Westhaven Council,Adult Social Care,Maintenance,Metro Waste Solutions,Equipment replacement,-250.0,4510.98,Revenue,Approved,Purchase Order,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0017853,2025-10-02,Eastford Council,Highways,Transport,UrbanBuild UK,Monthly service provision,-250.0,15158.04,Revenue,Under Review,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0017907,2024-01-22,Westhaven Council,Planning,Maintenance,Crown Facilities,Road resurfacing works,-250.0,995.84,Revenue,Under Review,Purchase Order,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0018158,2024-08-21,Northbridge Borough,Waste & Recycling,Grants,Northstar Care Group,Quarterly contract payment,-250.0,5630.21,Capital,Approved,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0018442,2026-04-24,Eastford Council,Waste & Recycling,Contracted Services,GreenPath Services,Equipment replacement,-250.0,5445.84,Capital,Approved,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0018457,2024-09-29,Westhaven Council,Highways,Transport,Community Health Partners,Emergency repair,-250.0,2390.91,Capital,Approved,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0018595,2024-01-16,Northbridge Borough,Parks & Environment,Technology,Crown Facilities,Equipment replacement,-250.0,972.85,Capital,Approved,Grant,General Fund,GBP,NEGATIVE_ACTUAL
+SP0018663,2024-05-03,Eastford Council,Public Health,Technology,BrightFuture Learning,Road resurfacing works,-250.0,2962.59,Revenue,Paid,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0019018,2025-05-19,Westhaven Council,Waste & Recycling,Utilities,CivicWorks Ltd,Road resurfacing works,-250.0,2008.77,Revenue,Paid,Grant,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0019583,2024-01-19,Eastford Council,Children's Services,Transport,LocalReach CIC,Road resurfacing works,-250.0,210422.16,Capital,Cancelled,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0019642,2026-03-07,Greenvale Council,Waste & Recycling,Capital Works,BrightFuture Learning,Community programme grant,-250.0,3526.24,Capital,Paid,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0019722,2025-03-05,Eastford Council,Children's Services,Contracted Services,BrightFuture Learning,Community programme grant,-250.0,2728.73,Capital,Under Review,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0019740,2025-12-19,Westhaven Council,Highways,Maintenance,Public Digital Ltd,Quarterly contract payment,-250.0,3111.34,Capital,Approved,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0019852,2025-06-11,Northbridge Borough,Public Health,Transport,BrightFuture Learning,Monthly service provision,-250.0,1269.68,Revenue,Approved,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0019957,2025-01-24,Southmoor Council,Planning,Technology,Roadway Maintenance Ltd,Monthly service provision,-250.0,2687.63,Capital,Under Review,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0019999,2026-09-17,Eastford Council,Libraries & Culture,Transport,Northstar Care Group,Road resurfacing works,-250.0,502.28,Capital,Under Review,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0020070,2024-10-25,Greenvale Council,Parks & Environment,Maintenance,LocalReach CIC,Emergency repair,-250.0,3032.65,Revenue,Under Review,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0020583,2026-03-05,Northbridge Borough,Housing,Grants,Roadway Maintenance Ltd,Monthly service provision,-250.0,2877.72,Revenue,Paid,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0020591,2024-07-16,Westhaven Council,Highways,Maintenance,LocalReach CIC,Quarterly contract payment,-250.0,1946.19,Capital,Cancelled,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0020669,2024-02-15,Rivermouth Council,Public Health,Technology,Roadway Maintenance Ltd,Monthly service provision,-250.0,1684.96,Capital,Under Review,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0020824,2025-05-30,Southmoor Council,Planning,Grants,UrbanBuild UK,Community programme grant,-250.0,4865.66,Revenue,Cancelled,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0020890,2026-08-31,Eastford Council,Children's Services,Transport,BrightFuture Learning,Road resurfacing works,-250.0,2711.49,Capital,Pending,Grant,General Fund,GBP,NEGATIVE_ACTUAL
+SP0020927,2024-04-07,Southmoor Council,Planning,Technology,BrightFuture Learning,Emergency repair,-250.0,11024.27,Capital,Cancelled,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0020976,2025-11-19,Northbridge Borough,Housing,Utilities,UrbanBuild UK,Road resurfacing works,-250.0,3151.04,Capital,Pending,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0021674,2024-04-27,Westhaven Council,Public Health,Staffing,Roadway Maintenance Ltd,Community programme grant,-250.0,2001.88,Revenue,Cancelled,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0021878,2025-09-24,Eastford Council,Waste & Recycling,Utilities,Crown Facilities,Quarterly contract payment,-250.0,1315.48,Revenue,Approved,Competitive Tender,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0022308,2024-11-05,Rivermouth Council,Children's Services,Transport,BrightFuture Learning,Monthly service provision,-250.0,223487.41,Revenue,Paid,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0022434,2025-04-14,Greenvale Council,Children's Services,Utilities,Northstar Care Group,Road resurfacing works,-250.0,1058.09,Capital,Approved,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0022618,2024-07-26,Eastford Council,Public Health,Staffing,Roadway Maintenance Ltd,Equipment replacement,-250.0,1445.66,Capital,Under Review,Grant,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0022650,2026-01-05,Eastford Council,Libraries & Culture,Maintenance,Roadway Maintenance Ltd,Equipment replacement,-250.0,21487.79,Capital,Cancelled,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0022802,2026-05-11,Eastford Council,Libraries & Culture,Maintenance,GreenPath Services,Road resurfacing works,-250.0,13640.24,Revenue,Cancelled,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0023020,2024-08-27,Rivermouth Council,Housing,Staffing,BrightFuture Learning,Community programme grant,-250.0,2992.39,Capital,Under Review,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0023195,2026-06-08,Westhaven Council,Housing,Contracted Services,LocalReach CIC,Road resurfacing works,-250.0,2295.52,Revenue,Cancelled,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0023804,2025-12-14,Rivermouth Council,Children's Services,Contracted Services,Roadway Maintenance Ltd,Equipment replacement,-250.0,1754.2,Capital,Pending,Grant,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0024754,2025-06-19,Rivermouth Council,Libraries & Culture,Contracted Services,BrightFuture Learning,Equipment replacement,-250.0,991.7,Capital,Pending,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0024963,2026-04-20,Rivermouth Council,Libraries & Culture,Transport,Community Health Partners,Equipment replacement,-250.0,2594.14,Revenue,Paid,Competitive Tender,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0024977,2025-12-30,Rivermouth Council,Housing,Contracted Services,LocalReach CIC,Emergency repair,-250.0,1299.26,Revenue,Pending,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0025127,2024-01-05,Westhaven Council,Children's Services,Transport,GreenPath Services,Monthly service provision,-250.0,2992.34,Capital,Approved,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0025238,2024-02-02,Southmoor Council,Housing,Staffing,Metro Waste Solutions,Road resurfacing works,-250.0,3932.24,Revenue,Paid,Grant,General Fund,GBP,NEGATIVE_ACTUAL
+SP0025532,2026-05-24,Northbridge Borough,Housing,Staffing,Crown Facilities,Monthly service provision,-250.0,526.67,Revenue,Pending,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0025997,2025-01-11,Southmoor Council,Planning,Staffing,LocalReach CIC,Monthly service provision,-250.0,4541.77,Capital,Cancelled,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0026045,2025-02-10,Eastford Council,Children's Services,Equipment,Metro Waste Solutions,Equipment replacement,-250.0,3435.01,Capital,Under Review,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0026150,2024-04-20,Rivermouth Council,Highways,Capital Works,Community Health Partners,Quarterly contract payment,-250.0,1498.65,Capital,Cancelled,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0026370,2024-02-13,Eastford Council,Waste & Recycling,Capital Works,BrightFuture Learning,Equipment replacement,-250.0,1651.24,Capital,Approved,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0026606,2026-08-13,Greenvale Council,Planning,Capital Works,GreenPath Services,Quarterly contract payment,-250.0,863.38,Revenue,Approved,Grant,General Fund,GBP,NEGATIVE_ACTUAL
+SP0026669,2025-02-03,Rivermouth Council,Public Health,Contracted Services,Metro Waste Solutions,Community programme grant,-250.0,3750.62,Capital,Paid,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0026929,2025-01-15,Greenvale Council,Libraries & Culture,Equipment,GreenPath Services,Quarterly contract payment,-250.0,11779.2,Revenue,Cancelled,Competitive Tender,General Fund,GBP,NEGATIVE_ACTUAL
+SP0027059,2025-03-18,Rivermouth Council,Housing,Grants,CivicWorks Ltd,Monthly service provision,-250.0,4695.36,Capital,Cancelled,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0027077,2025-08-01,Greenvale Council,Waste & Recycling,Staffing,Roadway Maintenance Ltd,Community programme grant,-250.0,3621.39,Capital,Under Review,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0027207,2024-12-29,Southmoor Council,Adult Social Care,Maintenance,Crown Facilities,Monthly service provision,-250.0,2270.47,Capital,Approved,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0027570,2026-02-12,Southmoor Council,Housing,Maintenance,GreenPath Services,Community programme grant,-250.0,3577.72,Revenue,Under Review,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0027892,2024-08-20,Southmoor Council,Public Health,Staffing,Metro Waste Solutions,Community programme grant,-250.0,1570.68,Capital,Cancelled,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0027974,2026-07-10,Southmoor Council,Parks & Environment,Maintenance,Community Health Partners,Emergency repair,-250.0,6053.39,Revenue,Paid,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0028282,2024-05-16,Eastford Council,Children's Services,Staffing,CivicWorks Ltd,Road resurfacing works,-250.0,1601.13,Revenue,Under Review,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0028514,2026-03-10,Eastford Council,Waste & Recycling,Maintenance,Crown Facilities,Emergency repair,-250.0,1040.68,Revenue,Pending,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0028942,2024-08-23,Westhaven Council,Libraries & Culture,Grants,LocalReach CIC,Quarterly contract payment,-250.0,15899.15,Capital,Cancelled,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0029456,2025-02-18,Greenvale Council,Children's Services,Transport,UrbanBuild UK,Quarterly contract payment,-250.0,1494.73,Revenue,Under Review,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0029494,2024-10-09,Northbridge Borough,Parks & Environment,Technology,Public Digital Ltd,Road resurfacing works,-250.0,2932.14,Capital,Paid,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0029731,2024-05-19,Westhaven Council,Parks & Environment,Contracted Services,UrbanBuild UK,Emergency repair,-250.0,3318.47,Capital,Paid,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0029734,2024-11-22,Eastford Council,Libraries & Culture,Equipment,Roadway Maintenance Ltd,Monthly service provision,-250.0,3248.4,Capital,Paid,Purchase Order,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0029756,2024-07-26,Westhaven Council,Children's Services,Grants,BrightFuture Learning,Road resurfacing works,-250.0,5945.62,Capital,Approved,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0029956,2025-09-07,Westhaven Council,Children's Services,Staffing,GreenPath Services,Road resurfacing works,-250.0,7101.79,Revenue,Approved,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0030206,2024-03-22,Greenvale Council,Children's Services,Transport,Community Health Partners,Quarterly contract payment,-250.0,20878.62,Revenue,Under Review,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0030456,2024-07-29,Northbridge Borough,Libraries & Culture,Grants,Crown Facilities,Emergency repair,-250.0,2734.77,Revenue,Cancelled,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0030593,2025-07-14,Eastford Council,Public Health,Equipment,LocalReach CIC,Road resurfacing works,-250.0,1639.98,Capital,Paid,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0030665,2025-12-01,Eastford Council,Public Health,Transport,Metro Waste Solutions,Emergency repair,-250.0,4944.8,Revenue,Pending,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0030804,2025-02-19,Westhaven Council,Highways,Maintenance,Public Digital Ltd,Quarterly contract payment,-250.0,1437.77,Capital,Cancelled,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0030806,2026-07-05,Westhaven Council,Public Health,Staffing,UrbanBuild UK,Road resurfacing works,-250.0,1017.5,Revenue,Pending,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0030836,2025-02-03,Eastford Council,Adult Social Care,Equipment,GreenPath Services,Community programme grant,-250.0,2431.49,Revenue,Paid,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0030971,2025-02-08,Southmoor Council,Planning,Maintenance,,Community programme grant,-250.0,1045.58,Capital,Cancelled,Grant,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0031040,2025-04-14,Eastford Council,Waste & Recycling,Contracted Services,BrightFuture Learning,Community programme grant,-250.0,1702.29,Capital,Approved,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0031147,2024-12-19,Southmoor Council,Public Health,Staffing,Northstar Care Group,Emergency repair,-250.0,2477.39,Capital,Approved,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0031311,2024-05-21,Southmoor Council,Parks & Environment,Capital Works,BrightFuture Learning,Emergency repair,-250.0,995.36,Revenue,Pending,Competitive Tender,General Fund,GBP,NEGATIVE_ACTUAL
+SP0031406,2024-02-21,Rivermouth Council,Parks & Environment,Contracted Services,Roadway Maintenance Ltd,Quarterly contract payment,-250.0,10927.86,Revenue,Cancelled,Grant,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0031602,2025-04-30,Northbridge Borough,Libraries & Culture,Technology,Crown Facilities,Emergency repair,-250.0,482.05,Capital,Approved,Competitive Tender,General Fund,GBP,NEGATIVE_ACTUAL
+SP0031642,2025-02-08,Northbridge Borough,Public Health,Transport,GreenPath Services,Quarterly contract payment,-250.0,16656.75,Capital,Approved,Competitive Tender,General Fund,GBP,NEGATIVE_ACTUAL
+SP0031787,2024-11-19,Eastford Council,Waste & Recycling,Maintenance,GreenPath Services,Monthly service provision,-250.0,1869.96,Revenue,Under Review,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0031801,2026-03-14,Eastford Council,Parks & Environment,Maintenance,CivicWorks Ltd,Emergency repair,-250.0,1798.08,Capital,Under Review,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0031905,2026-03-28,Southmoor Council,Public Health,Staffing,LocalReach CIC,Equipment replacement,-250.0,1924.36,Revenue,Paid,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0032135,2024-06-17,Southmoor Council,Adult Social Care,Grants,LocalReach CIC,Emergency repair,-250.0,1245.33,Revenue,Cancelled,Grant,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0032242,2024-02-05,Northbridge Borough,Housing,Contracted Services,LocalReach CIC,Emergency repair,-250.0,1477.61,Revenue,Cancelled,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0032281,2026-05-08,Northbridge Borough,Housing,Grants,Roadway Maintenance Ltd,Road resurfacing works,-250.0,2420.19,Revenue,Cancelled,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0032315,2025-09-11,Greenvale Council,Planning,Equipment,Public Digital Ltd,Quarterly contract payment,-250.0,1398.38,Revenue,Approved,Grant,General Fund,GBP,NEGATIVE_ACTUAL
+SP0032629,2026-05-22,Southmoor Council,Highways,Maintenance,Crown Facilities,Road resurfacing works,-250.0,15661.77,Revenue,Cancelled,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0032741,2024-12-02,Greenvale Council,Parks & Environment,Capital Works,Northstar Care Group,Community programme grant,-250.0,322037.58,Capital,Under Review,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0033098,2025-01-06,Westhaven Council,Children's Services,Capital Works,Roadway Maintenance Ltd,Community programme grant,-250.0,6466.85,Revenue,Under Review,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0033180,2025-09-11,Greenvale Council,Parks & Environment,Maintenance,CivicWorks Ltd,Road resurfacing works,-250.0,2339.22,Revenue,Paid,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0033182,2026-07-04,Rivermouth Council,Children's Services,Capital Works,Public Digital Ltd,Quarterly contract payment,-250.0,153553.99,Revenue,Paid,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0033451,2026-09-26,Rivermouth Council,Highways,Maintenance,Community Health Partners,Emergency repair,-250.0,168540.09,Capital,Under Review,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0034173,2026-09-05,Greenvale Council,Housing,Capital Works,Crown Facilities,Community programme grant,-250.0,1403.47,Revenue,Under Review,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0034217,2025-07-26,Southmoor Council,Public Health,Staffing,Crown Facilities,Community programme grant,-250.0,7688.01,Revenue,Cancelled,Grant,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0034421,2024-07-29,Westhaven Council,Waste & Recycling,Transport,CivicWorks Ltd,Emergency repair,-250.0,596.3,Revenue,Paid,Competitive Tender,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0034575,2024-08-08,Northbridge Borough,Parks & Environment,Equipment,Crown Facilities,Emergency repair,-250.0,12769.96,Revenue,Approved,Grant,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0034855,2024-06-06,Westhaven Council,Planning,Utilities,LocalReach CIC,Equipment replacement,-250.0,401.02,Revenue,Cancelled,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0034897,2025-11-28,Westhaven Council,Highways,Maintenance,BrightFuture Learning,Emergency repair,-250.0,3444.91,Capital,Cancelled,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0034976,2024-07-26,Eastford Council,Children's Services,Technology,GreenPath Services,Emergency repair,-250.0,2154.95,Capital,Under Review,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0035479,2024-03-09,Westhaven Council,Planning,Transport,Public Digital Ltd,Equipment replacement,-250.0,1428.22,Capital,Cancelled,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0035647,2024-03-19,Greenvale Council,Planning,Staffing,Crown Facilities,Emergency repair,-250.0,3073.29,Revenue,Paid,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0035708,2025-08-15,Greenvale Council,Housing,Utilities,UrbanBuild UK,Community programme grant,-250.0,910.32,Capital,Cancelled,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0035770,2025-02-08,Rivermouth Council,Housing,Utilities,Community Health Partners,Road resurfacing works,-250.0,4683.13,Capital,Pending,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0035777,2025-09-03,Greenvale Council,Public Health,Contracted Services,Northstar Care Group,Monthly service provision,-250.0,277236.38,Capital,Under Review,Grant,General Fund,GBP,NEGATIVE_ACTUAL
+SP0035942,2024-04-25,Westhaven Council,Waste & Recycling,Utilities,Roadway Maintenance Ltd,Equipment replacement,-250.0,2658.13,Capital,Under Review,Grant,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0036670,2025-11-14,Eastford Council,Planning,Maintenance,Crown Facilities,Monthly service provision,-250.0,1682.61,Revenue,Cancelled,Grant,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0036970,2024-04-30,Westhaven Council,Children's Services,Staffing,UrbanBuild UK,Community programme grant,-250.0,1341.36,Capital,Cancelled,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0037023,2024-01-14,Westhaven Council,Highways,Equipment,Community Health Partners,Quarterly contract payment,-250.0,2510.69,Capital,Paid,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0037249,2024-06-22,Rivermouth Council,Waste & Recycling,Transport,Community Health Partners,Equipment replacement,-250.0,3599.73,Revenue,Under Review,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0037637,2025-06-22,Westhaven Council,Waste & Recycling,Contracted Services,Metro Waste Solutions,Road resurfacing works,-250.0,1100.11,Capital,Pending,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0037887,2025-04-28,Rivermouth Council,Children's Services,Utilities,Community Health Partners,Quarterly contract payment,-250.0,7614.75,Revenue,Pending,Purchase Order,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0038049,2026-04-20,Northbridge Borough,Public Health,Equipment,UrbanBuild UK,Community programme grant,-250.0,1346.51,Capital,Cancelled,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0038203,2025-05-17,Eastford Council,Adult Social Care,Staffing,Public Digital Ltd,Quarterly contract payment,-250.0,4695.69,Capital,Pending,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0038377,2025-05-14,Eastford Council,Parks & Environment,Technology,CivicWorks Ltd,Road resurfacing works,-250.0,5072.4,Capital,Cancelled,Competitive Tender,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0038600,2025-08-20,Northbridge Borough,Public Health,Technology,CivicWorks Ltd,Emergency repair,-250.0,1628.28,Capital,Pending,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0038724,2026-07-27,Eastford Council,Public Health,Equipment,Roadway Maintenance Ltd,Quarterly contract payment,-250.0,746.57,Revenue,Paid,Grant,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0039249,2026-09-01,Northbridge Borough,Planning,Contracted Services,UrbanBuild UK,Quarterly contract payment,-250.0,3086.18,Revenue,Pending,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0039761,2025-04-25,Eastford Council,Public Health,Technology,LocalReach CIC,Equipment replacement,-250.0,11944.26,Capital,Approved,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0039806,2024-12-12,Rivermouth Council,Planning,Contracted Services,GreenPath Services,Community programme grant,-250.0,2343.6,Revenue,Under Review,Grant,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0039893,2026-08-31,Greenvale Council,Libraries & Culture,Utilities,Community Health Partners,Community programme grant,-250.0,1577.06,Revenue,Under Review,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0039929,2025-02-13,Greenvale Council,Waste & Recycling,Utilities,Community Health Partners,Community programme grant,-250.0,839.68,Capital,Under Review,Purchase Order,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0040107,2026-03-20,Greenvale Council,Parks & Environment,Equipment,Community Health Partners,Quarterly contract payment,-250.0,1710.75,Revenue,Approved,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0040570,2025-06-13,Westhaven Council,Planning,Transport,Roadway Maintenance Ltd,Road resurfacing works,-250.0,1842.73,Revenue,Approved,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0040637,2025-11-20,Greenvale Council,Children's Services,Capital Works,Roadway Maintenance Ltd,Community programme grant,-250.0,6465.56,Revenue,Approved,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0040659,2024-11-13,Eastford Council,Public Health,Maintenance,LocalReach CIC,Emergency repair,-250.0,447117.69,Capital,Paid,Framework,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0040708,2025-02-26,Southmoor Council,Highways,Utilities,Public Digital Ltd,Community programme grant,-250.0,1215.88,Revenue,Approved,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0041047,2026-08-01,Eastford Council,Planning,Technology,Crown Facilities,Community programme grant,-250.0,225076.87,Capital,Cancelled,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0041186,2024-07-12,Northbridge Borough,Children's Services,Equipment,UrbanBuild UK,Monthly service provision,-250.0,2376.34,Capital,Cancelled,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0041606,2025-10-10,Eastford Council,Planning,Grants,Metro Waste Solutions,Community programme grant,-250.0,6757.84,Capital,Under Review,Grant,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0041636,2024-05-11,Rivermouth Council,Parks & Environment,Transport,UrbanBuild UK,Monthly service provision,-250.0,3214.5,Revenue,Under Review,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0041680,2026-01-22,Greenvale Council,Highways,Equipment,,Road resurfacing works,-250.0,7528.46,Capital,Approved,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0041846,2025-12-14,Westhaven Council,Libraries & Culture,Contracted Services,Roadway Maintenance Ltd,Quarterly contract payment,-250.0,1577.81,Capital,Under Review,Competitive Tender,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0041874,2025-03-06,Westhaven Council,Libraries & Culture,Technology,GreenPath Services,Emergency repair,-250.0,2129.72,Capital,Under Review,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0042784,2026-03-30,Southmoor Council,Children's Services,Maintenance,GreenPath Services,Road resurfacing works,-250.0,832.63,Revenue,Paid,Grant,General Fund,GBP,NEGATIVE_ACTUAL
+SP0042867,2024-03-26,Southmoor Council,Public Health,Contracted Services,LocalReach CIC,Quarterly contract payment,-250.0,1114.46,Capital,Cancelled,Competitive Tender,General Fund,GBP,NEGATIVE_ACTUAL
+SP0043092,2025-01-31,Westhaven Council,Parks & Environment,Equipment,BrightFuture Learning,Monthly service provision,-250.0,1327.82,Capital,Approved,Grant,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0043819,2024-11-10,Northbridge Borough,Public Health,Capital Works,GreenPath Services,Road resurfacing works,-250.0,6835.3,Revenue,Pending,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0043974,2026-08-24,Eastford Council,Planning,Capital Works,Metro Waste Solutions,Community programme grant,-250.0,874.95,Revenue,Paid,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0044025,2026-01-11,Rivermouth Council,Planning,Maintenance,Community Health Partners,Community programme grant,-250.0,2765.73,Revenue,Cancelled,Framework,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0044129,2024-07-30,Greenvale Council,Planning,Transport,Northstar Care Group,Road resurfacing works,-250.0,4094.55,Capital,Cancelled,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0044258,2026-01-19,Eastford Council,Waste & Recycling,Staffing,Northstar Care Group,Road resurfacing works,-250.0,1839.0,Revenue,Pending,Direct Award,General Fund,GBP,NEGATIVE_ACTUAL
+SP0044534,2025-01-09,Greenvale Council,Public Health,Utilities,Metro Waste Solutions,Equipment replacement,-250.0,546.99,Capital,Cancelled,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0044623,2025-06-07,Greenvale Council,Adult Social Care,Grants,Northstar Care Group,Quarterly contract payment,-250.0,1381.91,Revenue,Approved,Competitive Tender,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0044702,2025-01-05,Rivermouth Council,Highways,Transport,Roadway Maintenance Ltd,Quarterly contract payment,-250.0,969.07,Capital,Approved,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0044878,2024-07-25,Rivermouth Council,Adult Social Care,Capital Works,Northstar Care Group,Monthly service provision,-250.0,3203.03,Revenue,Approved,Direct Award,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0045313,2025-01-15,Northbridge Borough,Adult Social Care,Transport,Metro Waste Solutions,Community programme grant,-250.0,7334.43,Revenue,Approved,Purchase Order,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0045670,2024-04-09,Greenvale Council,Parks & Environment,Technology,Roadway Maintenance Ltd,Road resurfacing works,-250.0,1582.93,Capital,Approved,Grant,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0045971,2025-03-25,Eastford Council,Highways,Transport,BrightFuture Learning,Monthly service provision,-250.0,6520.07,Revenue,Pending,Competitive Tender,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0046419,2026-04-09,Southmoor Council,Housing,Staffing,Community Health Partners,Community programme grant,-250.0,3562.46,Capital,Cancelled,Competitive Tender,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0047091,2024-01-07,Northbridge Borough,Waste & Recycling,Maintenance,Crown Facilities,Emergency repair,-250.0,5029.84,Revenue,Pending,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0047116,2024-06-30,Northbridge Borough,Waste & Recycling,Maintenance,LocalReach CIC,Emergency repair,-250.0,1844.68,Capital,Under Review,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0047156,2026-09-21,Southmoor Council,Children's Services,Technology,LocalReach CIC,Quarterly contract payment,-250.0,2242.33,Revenue,Approved,Direct Award,Housing Fund,GBP,NEGATIVE_ACTUAL
+SP0047676,2025-02-01,Rivermouth Council,Adult Social Care,Technology,GreenPath Services,Emergency repair,-250.0,5873.09,Revenue,Pending,Competitive Tender,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0047795,2026-09-25,Northbridge Borough,Waste & Recycling,Staffing,LocalReach CIC,Monthly service provision,-250.0,3196.4,Revenue,Cancelled,Purchase Order,General Fund,GBP,NEGATIVE_ACTUAL
+SP0048359,2024-09-01,Rivermouth Council,Planning,Technology,CivicWorks Ltd,Quarterly contract payment,-250.0,5281.61,Revenue,Approved,Framework,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0048582,2026-01-01,Westhaven Council,Public Health,Grants,Roadway Maintenance Ltd,Quarterly contract payment,-250.0,1883.67,Capital,Approved,Competitive Tender,Capital Programme,GBP,NEGATIVE_ACTUAL
+SP0048667,2025-09-24,Greenvale Council,Libraries & Culture,Technology,BrightFuture Learning,Quarterly contract payment,-250.0,987.23,Revenue,Paid,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0049087,2024-10-19,Southmoor Council,Children's Services,Technology,Metro Waste Solutions,Quarterly contract payment,-250.0,598.17,Revenue,Pending,Direct Award,Public Health Grant,GBP,NEGATIVE_ACTUAL
+SP0049287,2024-06-02,Rivermouth Council,Highways,Maintenance,LocalReach CIC,Monthly service provision,-250.0,2650.26,Revenue,Pending,Framework,General Fund,GBP,NEGATIVE_ACTUAL
+SP0049321,2025-02-01,Greenvale Council,Planning,Equipment,CivicWorks Ltd,Community programme grant,-250.0,5292.29,Revenue,Paid,Purchase Order,Housing Fund,GBP,NEGATIVE_ACTUAL

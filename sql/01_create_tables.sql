@@ -1,5 +1,6 @@
+
 CREATE SCHEMA IF NOT EXISTS council_spending;
-use council_spending;
+USE council_spending;
 
 CREATE TABLE load_audit (
     run_id BIGINT AUTO_INCREMENT PRIMARY KEY,
@@ -14,11 +15,7 @@ CREATE TABLE load_audit (
     final_count INT,
     status VARCHAR(30),
     error_message TEXT
-);
-
-SHOW TABLES;
-DESCRIBE load_audit;
-SELECT * FROM load_audit;
+) ENGINE = InnoDB;
 
 CREATE TABLE accepted_data (
     transaction_id VARCHAR(100) PRIMARY KEY,
@@ -36,34 +33,40 @@ CREATE TABLE accepted_data (
     procurement_method VARCHAR(255),
     funding_source VARCHAR(255),
     currency VARCHAR(10),
-    supplier_flag bool,
+    supplier_flag BOOLEAN,
     recorded_spend INT,
     pending_spend INT,
     paid_spend INT,
     Variance_GBP DECIMAL(14,2),
     Variance_pct DECIMAL(18,6),
-    Supplier_Share_Of_Council_Pct DECIMAL(18,6)
-);
-alter table accepted_data
-add column description_column varchar(500);
+    Supplier_Share_Of_Council_Pct DECIMAL(18,6),
+    description_column VARCHAR(500),
+    CONSTRAINT chk_currency CHECK (currency = 'GBP'),
+    CONSTRAINT chk_payment_status
+        CHECK (payment_status IN ('paid', 'under review', 'approved', 'pending', 'cancelled'))
+) ENGINE = InnoDB;
 
-alter table accepted_data
-modify column supplier_flag bool;
+CREATE TABLE accepted_data_import LIKE accepted_data;
 
-select* from accepted_data;
+-- Exception details for each audit run.
+CREATE TABLE IF NOT EXISTS rejected_data (
+    exception_id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    audit_run_id BIGINT NOT NULL,
+    transaction_id VARCHAR(100),
+    transaction_date_raw VARCHAR(100),
+    reason_code VARCHAR(100) NOT NULL,
+    INDEX (audit_run_id),
+    FOREIGN KEY (audit_run_id) REFERENCES load_audit(run_id)
+) ENGINE = InnoDB;
 
-alter table accepted_data
-add constraint chk_currency 
-check (currency in ('GBP'));
+CREATE TABLE IF NOT EXISTS review_data (
+    exception_id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    audit_run_id BIGINT NOT NULL,
+    transaction_id VARCHAR(100),
+    actual_spend_gbp DECIMAL(14,2),
+    reason_code VARCHAR(100) NOT NULL,
+    INDEX (audit_run_id),
+    FOREIGN KEY (audit_run_id) REFERENCES load_audit(run_id)
+) ENGINE = InnoDB;
 
-alter table accepted_data
-add constraint chk_payment_status 
-check ( payment_status in ('paid','under review','approved','pending','cancelled'));
-
-
-select count(*) as count_column from information_schema.columns 
-where table_schema = 'council_spending' and table_name='accepted_data';
-
-CREATE TABLE council_spending.accepted_data_import
-LIKE council_spending.accepted_data;
-
+SHOW FULL TABLES FROM council_spending;

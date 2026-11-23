@@ -1,0 +1,13 @@
+metric,value
+input_rows,50000
+raw_file,Local_Council_Spending_50000_rows.csv
+raw_sha256,89c5186319137fcc7ef29b2ff1ec630bae00384118d9aaeefeecaa1779b1765f
+accepted_rows,49570
+rejected_rows,180
+rejected_reason_INVALID_DATE,180
+review_rows,250
+review_reason_NEGATIVE_ACTUAL,250
+accepted_actual_spend_gbp,617074279.84
+accepted_budget_gbp,648478779.91
+recorded_spend_gbp,494674327.33
+accepted_missing_supplier_rows,646

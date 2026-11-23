@@ -1,4 +1,3 @@
-select * from accepted_data;
 use council_spending;
 
 -- VIEW 1 : spend vs budget variance register 
@@ -256,7 +255,4 @@ SELECT COUNT(*) AS council_count
 FROM governance_payment_summary;
 
 SHOW COLUMNS FROM council_spending.load_audit;
-
-
-
 
