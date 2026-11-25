@@ -45,7 +45,7 @@ I loaded the accepted transactions into a staging table, moved them into the rep
 
 ### Supplier and procurement dashboard
 
-![Supplier and Procurement dashboard](./supplier-and-procurement-dashboard.png)
+![Supplier and Procurement dashboard](./PowerBI/supplier-and-procurement-dashboard.png)
 
 **What the dashboard shows**
 
